@@ -24,7 +24,7 @@ rank=np.linalg.matrix_rank(a)
 print(rank)
 ```
 ## Output:
-![matrix rank](https://github.com/JerowinGeo/RANK-OF-A-MATRIX/assets/147139744/438191c4-e61b-4379-8267-3540a72c2b15)
+![image](https://github.com/JerowinGeo/RANK-OF-A-MATRIX/assets/147139744/b52214e2-f8b7-44f1-8849-379514f646c9)
 
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
